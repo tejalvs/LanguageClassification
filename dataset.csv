@@ -1,0 +1,11 @@
+AvgWordLength,EnglishArticles,DutchArticles,StartsWithD,CharOtherThanEnglish,RepeatedVowels,DutchDiaphthong,CommonEnglishWords,CommonDutchWords,IJPattern,ResultLanguage
+0,1,1,1,0,1,1,1,1,1,nl
+0,1,1,1,1,1,1,0,1,0,nl
+0,0,0,0,1,0,1,0,0,0,en
+0,0,0,1,1,1,0,0,0,0,en
+0,1,1,1,1,1,1,1,1,1,nl
+0,0,0,1,1,1,0,1,0,0,en
+0,1,0,0,1,0,0,0,0,0,en
+0,1,0,1,1,1,1,0,0,0,en
+0,0,0,0,1,0,0,0,0,0,en
+0,0,0,0,1,0,0,0,0,0,en
